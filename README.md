@@ -1,3 +1,3 @@
 # Мои работы
 [Магазин](https://Atamazow.github.io/Magazin)
-[ Apple](https://Atamazow.github.io/Apple)
+[ Apple](https://Atamazow.github.io/atamazow.html)
