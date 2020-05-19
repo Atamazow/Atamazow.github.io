@@ -3,4 +3,5 @@
 [ Apple](https://Atamazow.github.io/apple)<br>
 [Цели](https://Atamazow.github.io/goals)<br>
 [Строительная  компания](https://Atamazow.github.io/constructioncompany)<br>
-[Чат](https://Atamazow.github.io/chat)
+[Чат](https://Atamazow.github.io/chat)<br>
+[Страница для новостей](https://Atamazow.github.io/stageang)
