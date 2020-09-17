@@ -4,4 +4,4 @@
 [Цели](https://Atamazow.github.io/goals)<br>
 [Строительная  компания](https://Atamazow.github.io/constructioncompany)<br>
 [Чат](https://Atamazow.github.io/chat)<br>
-[Верстка для портфолио](https://Atamazow.github.io/portfolio-atam)
+
